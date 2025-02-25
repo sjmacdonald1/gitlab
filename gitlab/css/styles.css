@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background: #eae1e1;
+}
+main {
+	max-width: 70em;
+	margin: 0 auto;
+}
+.right {
+	float: right;
+	margin-left: .5em;
+	width: 20%;
+	height: auto;
+}
+
